@@ -1,0 +1,9 @@
+{
+  "name": "etsy-autocomplete-helper",
+  "version": "1.0.0",
+  "main": "api/scrape.js",
+  "type": "module",
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
+}
